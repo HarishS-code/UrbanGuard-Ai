@@ -69,6 +69,8 @@ For the stakeholder walkthrough, use the reproducible [demo guide](DEMO_GUIDE.md
 
 For a presentation-ready summary of the design, use [DESIGN_DECK.md](DESIGN_DECK.md). It is a markdown slide deck (Marp-compatible) covering the problem, architecture, risk model, multimodal pipeline, live-run results, governance, and roadmap, and can be exported to PowerPoint.
 
+For a full pitch that explains the code end-to-end **and** covers the proposed Google Cloud target architecture (Google ADK agents, Gemini, Vertex AI Agent Engine), use [PITCH_DECK.md](PITCH_DECK.md). Its Google Cloud slides are explicitly labelled as proposed/roadmap, since the running code is deterministic and does not call Gemini or ADK yet.
+
 ## API
 
 | Method | Endpoint | Purpose |
